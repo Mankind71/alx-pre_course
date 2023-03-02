@@ -1,1 +1,1 @@
-first readme in 0x01-git folder
+task #4. updating readme from github.com
